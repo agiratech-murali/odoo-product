@@ -1,2 +1,2 @@
 # odoo-product
-product wishlist 
+product wishlist feature
